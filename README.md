@@ -41,13 +41,21 @@
 <table>
   <tr>
     <td width="100%" valign="top" style="padding: 15px;">
-      <h3 style="color: #1C2839; margin-top: 0; font-size: 1.7em; line-height: 1.4;">
-        <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="55" style="vertical-align: middle; margin-right: 15px;" />
-        <span style="vertical-align: middle; font-weight: bold; margin-right: 15px;">ERTH Matching</span>
-        <img src="Assets/status-completed.svg" alt="Status: Completed" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="font-size: 0.45em; color: #15803D; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #E8F5E9; padding: 4px 10px; border-radius: 12px; border: 1px solid #C8E6C9;">Completed</span>
-      </h3>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 15px;">
+      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 15px 0; padding: 0;">
+        <tr style="border: none;">
+          <td align="left" valign="middle" style="border: none; padding: 0;">
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em;">
+              <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="55" style="vertical-align: middle; margin-right: 15px;" />
+              <span style="vertical-align: middle; font-weight: bold;">ERTH Matching</span>
+            </h3>
+          </td>
+          <td align="right" valign="middle" style="border: none; padding: 0;">
+            <img src="Assets/status-completed.svg" alt="Status: Completed" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
+            <span style="font-size: 0.75em; color: #15803D; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #E8F5E9; padding: 4px 10px; border-radius: 12px; border: 1px solid #C8E6C9;">Completed</span>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
         A smart, skill-based collaboration and teammate matching engine for student projects, research papers, and academic work at New Mansoura University.
       </p>
       <p>
@@ -78,13 +86,21 @@
 <table>
   <tr>
     <td width="100%" valign="top" style="padding: 15px;">
-      <h3 style="color: #1C2839; margin-top: 0; font-size: 1.6em; line-height: 1.4;">
-        <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
-        <span style="vertical-align: middle; font-weight: bold; margin-right: 15px;">Erudios</span>
-        <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="font-size: 0.48em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
-      </h3>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 15px;">
+      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 15px 0; padding: 0;">
+        <tr style="border: none;">
+          <td align="left" valign="middle" style="border: none; padding: 0;">
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.6em;">
+              <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
+              <span style="vertical-align: middle; font-weight: bold;">Erudios</span>
+            </h3>
+          </td>
+          <td align="right" valign="middle" style="border: none; padding: 0;">
+            <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
+            <span style="font-size: 0.78em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
         An open-source, personalized learning platform that maps complex AI/ML taxonomies, builds prerequisite-aware dependency paths, and answers "what to learn next."
       </p>
       <p>
@@ -115,13 +131,21 @@
 <table>
   <tr>
     <td width="100%" valign="top" style="padding: 15px;">
-      <h3 style="color: #1C2839; margin-top: 0; font-size: 1.6em; line-height: 1.4;">
-        <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
-        <span style="vertical-align: middle; font-weight: bold; margin-right: 15px;">Corpus</span>
-        <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="font-size: 0.48em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
-      </h3>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 15px;">
+      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 15px 0; padding: 0;">
+        <tr style="border: none;">
+          <td align="left" valign="middle" style="border: none; padding: 0;">
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.6em;">
+              <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
+              <span style="vertical-align: middle; font-weight: bold;">Corpus</span>
+            </h3>
+          </td>
+          <td align="right" valign="middle" style="border: none; padding: 0;">
+            <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
+            <span style="font-size: 0.78em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
         A self-hostable domain-specific language learning platform that bridges the gap between technical mastery and professional communication in high-stakes environments.
       </p>
       <p>
