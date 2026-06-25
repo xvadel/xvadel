@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="80%" valign="top">
       <h3 style="color: #1C2839; margin-top: 0;">ERTH Matching</h3>
       <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         A smart, skill-based collaboration and teammate matching engine for student projects, research papers, and academic work at New Mansoura University.
@@ -67,12 +67,18 @@
         <li><strong>Real-Time Workspaces:</strong> Features interactive Kanban task boards with custom sequence sorting, team group chats, and peer evaluation workflows.</li>
       </ul>
     </td>
+    <td width="20%" align="center" valign="middle" style="border-left: 1px solid #415169; padding: 15px;">
+      <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" width="85" style="margin-bottom: 15px;" />
+      <br />
+      <img src="Assets/status-completed.svg" alt="Status: Completed" width="38" height="38" />
+      <div style="font-size: 0.75em; color: #15803D; font-weight: bold; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Completed</div>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="80%" valign="top">
       <h3 style="color: #1C2839; margin-top: 0;">Erudios</h3>
       <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         An open-source, personalized learning platform that maps complex AI/ML taxonomies, builds prerequisite-aware dependency paths, and answers "what to learn next."
@@ -99,12 +105,18 @@
         <li><strong>Resource Discovery:</strong> Built a trust-scoring research engine that queries DuckDuckGo and OpenAlex to fetch and rank academic papers and articles.</li>
       </ul>
     </td>
+    <td width="20%" align="center" valign="middle" style="border-left: 1px solid #415169; padding: 15px;">
+      <img src="Assets/erudios-logo.png" alt="Erudios Logo" width="85" style="margin-bottom: 15px; border-radius: 8px;" />
+      <br />
+      <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="38" height="38" />
+      <div style="font-size: 0.75em; color: #EA580C; font-weight: bold; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">In Progress</div>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="80%" valign="top">
       <h3 style="color: #1C2839; margin-top: 0;">Corpus</h3>
       <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         A self-hostable domain-specific language learning platform that bridges the gap between technical mastery and professional communication in high-stakes environments.
@@ -126,6 +138,12 @@
         <li><strong>GapAnalyzer Curriculum Engine:</strong> Implemented topological sorting over a 108-concept AI ontology to generate customized learning paths targeting verified vocabulary gaps.</li>
         <li><strong>Interactive AI Coaches:</strong> Designed roleplay simulators mimicking high-stakes scenarios, featuring startup VC pitches (Alex Mercer), principal systems designs (Sarah Connor), and AI architecture reviews (Dr. Evelyn Vance).</li>
       </ul>
+    </td>
+    <td width="20%" align="center" valign="middle" style="border-left: 1px solid #415169; padding: 15px;">
+      <img src="Assets/Corpus-logo.png" alt="Corpus Logo" width="85" style="margin-bottom: 15px; border-radius: 8px;" />
+      <br />
+      <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="38" height="38" />
+      <div style="font-size: 0.75em; color: #EA580C; font-weight: bold; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">In Progress</div>
     </td>
   </tr>
 </table>
