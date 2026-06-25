@@ -52,9 +52,9 @@
             </h3>
           </td>
           <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="display: inline-block; vertical-align: middle; padding: 6px 14px; border-radius: 9999px; background-color: #E8F5E9; border: 1px solid #C8E6C9; color: #1B5E20; font-family: -apple-system, sans-serif; font-weight: 700; font-size: 0.72em; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-              <img src="Assets/status-completed.svg" alt="Completed" width="16" height="16" style="vertical-align: middle; margin-right: 6px; margin-top: -2px;" />
-              <span style="vertical-align: middle;">Completed</span>
+            <div style="display: inline-block; padding: 10px 16px; border-radius: 12px; background-color: #E8F5E9; border: 1px solid #C8E6C9; color: #1B5E20; text-align: center; min-width: 90px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+              <img src="Assets/status-completed.svg" alt="Completed" width="24" height="24" style="margin-bottom: 6px;" />
+              <div style="font-family: -apple-system, sans-serif; font-weight: 800; font-size: 0.68em; text-transform: uppercase; letter-spacing: 0.8px; line-height: 1.2;">Completed</div>
             </div>
           </td>
         </tr>
@@ -101,9 +101,9 @@
             </h3>
           </td>
           <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="display: inline-block; vertical-align: middle; padding: 6px 14px; border-radius: 9999px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; font-family: -apple-system, sans-serif; font-weight: 700; font-size: 0.72em; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-              <img src="Assets/status-in-progress.svg" alt="In Progress" width="16" height="16" style="vertical-align: middle; margin-right: 6px; margin-top: -2px;" />
-              <span style="vertical-align: middle;">In Progress</span>
+            <div style="display: inline-block; padding: 10px 16px; border-radius: 12px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; text-align: center; min-width: 90px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+              <img src="Assets/status-in-progress.svg" alt="In Progress" width="24" height="24" style="margin-bottom: 6px;" />
+              <div style="font-family: -apple-system, sans-serif; font-weight: 800; font-size: 0.68em; text-transform: uppercase; letter-spacing: 0.8px; line-height: 1.2;">In Progress</div>
             </div>
           </td>
         </tr>
@@ -150,9 +150,9 @@
             </h3>
           </td>
           <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="display: inline-block; vertical-align: middle; padding: 6px 14px; border-radius: 9999px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; font-family: -apple-system, sans-serif; font-weight: 700; font-size: 0.72em; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-              <img src="Assets/status-in-progress.svg" alt="In Progress" width="16" height="16" style="vertical-align: middle; margin-right: 6px; margin-top: -2px;" />
-              <span style="vertical-align: middle;">In Progress</span>
+            <div style="display: inline-block; padding: 10px 16px; border-radius: 12px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; text-align: center; min-width: 90px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+              <img src="Assets/status-in-progress.svg" alt="In Progress" width="24" height="24" style="margin-bottom: 6px;" />
+              <div style="font-family: -apple-system, sans-serif; font-weight: 800; font-size: 0.68em; text-transform: uppercase; letter-spacing: 0.8px; line-height: 1.2;">In Progress</div>
             </div>
           </td>
         </tr>
