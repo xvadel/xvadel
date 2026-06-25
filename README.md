@@ -44,9 +44,11 @@
       <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
         <tr style="border: none; background: transparent;">
           <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.8em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px;">
-              <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="55" style="vertical-align: middle; margin-right: 15px; border-radius: 10px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
-              <span style="vertical-align: middle;">ERTH Matching</span>
+            <div style="margin-bottom: 8px;">
+              <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="60" style="border-radius: 12px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
+            </div>
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.8em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2;">
+              ERTH Matching
             </h3>
           </td>
           <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
@@ -91,9 +93,11 @@
       <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
         <tr style="border: none; background: transparent;">
           <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px;">
-              <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 10px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
-              <span style="vertical-align: middle;">Erudios</span>
+            <div style="margin-bottom: 8px;">
+              <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="52" style="border-radius: 12px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
+            </div>
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2;">
+              Erudios
             </h3>
           </td>
           <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
@@ -138,9 +142,11 @@
       <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
         <tr style="border: none; background: transparent;">
           <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px;">
-              <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 10px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
-              <span style="vertical-align: middle;">Corpus</span>
+            <div style="margin-bottom: 8px;">
+              <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="52" style="border-radius: 12px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
+            </div>
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2;">
+              Corpus
             </h3>
           </td>
           <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
