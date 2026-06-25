@@ -47,6 +47,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Scope-Teamwork%20Product-2D3D52?style=flat-square" alt="Teamwork Product" />
+        <img src="https://img.shields.io/badge/My%20Role-Software%20Testing%20%26%20API%20QA-1C2839?style=flat-square" alt="My Role: Software Testing &amp; API QA" />
         <img src="https://img.shields.io/badge/Status-Completed-415169?style=flat-square" alt="Status Completed" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -54,13 +55,17 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
       </p>
-      <strong style="color: #1C2839;">Key Technical Accomplishments:</strong>
+      <strong style="color: #1C2839;">My Core Contributions & Product Ideation:</strong>
+      <ul style="color: #415169; line-height: 1.5; margin-top: 5px; margin-bottom: 15px;">
+        <li><strong>Software Testing & Quality Assurance:</strong> Structured and executed comprehensive testing plans to validate core features, access privileges, and system behaviors.</li>
+        <li><strong>API Verification & Testing:</strong> Extensively checked and verified all 70+ REST API endpoints using Postman, writing automated assertions to ensure correct CSRF token exchanges and secure headers.</li>
+        <li><strong>Product Development Ideation:</strong> Shared key ideas to design the product, driving the development of the daily schedule matrix, workspace workflows, and peer-review systems.</li>
+      </ul>
+      <strong style="color: #1C2839;">Platform Features (Team Collaboration):</strong>
       <ul style="color: #415169; line-height: 1.5; margin-top: 5px;">
-        <li><strong>Weighted Compatibility Engine:</strong> Evaluates 5 core parameters: Skill Match (45% weight), Skill Complementarity (25%), Activity & Reliability (10%), Schedule Alignment (10%), Academic Proximity (5%), and Bayesian-scaled Peer Reputation (5%).</li>
-        <li><strong>OTP Authentication & Security:</strong> Built a 3-step registration and password recovery system utilizing valid university domains (<code>@nmu.edu.eg</code>) with rate limiting and CSRF protection.</li>
-        <li><strong>Real-Time Workspaces:</strong> Engineered interactive Kanban boards with manual task sequencing, dynamic teammate peer reviews, and an active team chat system.</li>
-        <li><strong>AI Profile Companion:</strong> Integrated Groq API LLM proxies to auto-generate bios and suggest student skills based on project descriptions.</li>
-        <li><strong>API Excellence:</strong> Designed and tested 70+ REST endpoints, documented via a custom Postman collection with automatic CSRF token state-saving script.</li>
+        <li><strong>Weighted Compatibility Engine:</strong> Programmatically matches students using 5 weighted criteria: Skill Match (45%), Complementarity (25%), Experience (10%), Schedule (10%), Academic Proximity (5%), and Bayesian-scaled Peer Reputation (5%).</li>
+        <li><strong>OTP Authentication & Security:</strong> Throttles access and secures registrations using domain-restricted email OTP verification (<code>@nmu.edu.eg</code>), CSRF token guards, and rate limiters.</li>
+        <li><strong>Real-Time Workspaces:</strong> Features interactive Kanban task boards with custom sequence sorting, team group chats, and peer evaluation workflows.</li>
       </ul>
     </td>
   </tr>
