@@ -38,28 +38,11 @@
 
 ## Featured Projects
 
-<table width="100%" style="border: 1px solid #E2E8F0; border-radius: 12px; border-collapse: separate; background-color: #F8FAFC; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
+<table>
   <tr>
-    <td width="100%" valign="top" style="padding: 24px; border: none;">
-      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
-        <tr style="border: none; background: transparent;">
-          <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="margin-bottom: 8px;">
-              <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="60" style="border-radius: 12px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
-            </div>
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.8em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2;">
-              ERTH Matching
-            </h3>
-          </td>
-          <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="display: inline-block; padding: 10px 16px; border-radius: 12px; background-color: #E8F5E9; border: 1px solid #C8E6C9; color: #1B5E20; text-align: center; min-width: 90px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-              <img src="Assets/status-completed.svg" alt="Completed" width="24" height="24" style="margin-bottom: 6px;" />
-              <div style="font-family: -apple-system, sans-serif; font-weight: 800; font-size: 0.68em; text-transform: uppercase; letter-spacing: 0.8px; line-height: 1.2;">Completed</div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
+    <td width="100%" valign="top">
+      <h3 style="color: #1C2839; margin-top: 0;">ERTH Matching</h3>
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         A smart, skill-based collaboration and teammate matching engine for student projects, research papers, and academic work at New Mansoura University.
       </p>
       <p>
@@ -87,28 +70,11 @@
   </tr>
 </table>
 
-<table width="100%" style="border: 1px solid #E2E8F0; border-radius: 12px; border-collapse: separate; background-color: #F8FAFC; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
+<table>
   <tr>
-    <td width="100%" valign="top" style="padding: 24px; border: none;">
-      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
-        <tr style="border: none; background: transparent;">
-          <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="margin-bottom: 8px;">
-              <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="52" style="border-radius: 12px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
-            </div>
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2;">
-              Erudios
-            </h3>
-          </td>
-          <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="display: inline-block; padding: 10px 16px; border-radius: 12px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; text-align: center; min-width: 90px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-              <img src="Assets/status-in-progress.svg" alt="In Progress" width="24" height="24" style="margin-bottom: 6px;" />
-              <div style="font-family: -apple-system, sans-serif; font-weight: 800; font-size: 0.68em; text-transform: uppercase; letter-spacing: 0.8px; line-height: 1.2;">In Progress</div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
+    <td width="100%" valign="top">
+      <h3 style="color: #1C2839; margin-top: 0;">Erudios</h3>
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         An open-source, personalized learning platform that maps complex AI/ML taxonomies, builds prerequisite-aware dependency paths, and answers "what to learn next."
       </p>
       <p>
@@ -136,28 +102,11 @@
   </tr>
 </table>
 
-<table width="100%" style="border: 1px solid #E2E8F0; border-radius: 12px; border-collapse: separate; background-color: #F8FAFC; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
+<table>
   <tr>
-    <td width="100%" valign="top" style="padding: 24px; border: none;">
-      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
-        <tr style="border: none; background: transparent;">
-          <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="margin-bottom: 8px;">
-              <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="52" style="border-radius: 12px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
-            </div>
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px; line-height: 1.2;">
-              Corpus
-            </h3>
-          </td>
-          <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
-            <div style="display: inline-block; padding: 10px 16px; border-radius: 12px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; text-align: center; min-width: 90px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
-              <img src="Assets/status-in-progress.svg" alt="In Progress" width="24" height="24" style="margin-bottom: 6px;" />
-              <div style="font-family: -apple-system, sans-serif; font-weight: 800; font-size: 0.68em; text-transform: uppercase; letter-spacing: 0.8px; line-height: 1.2;">In Progress</div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 10px;">
+    <td width="100%" valign="top">
+      <h3 style="color: #1C2839; margin-top: 0;">Corpus</h3>
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         A self-hostable domain-specific language learning platform that bridges the gap between technical mastery and professional communication in high-stakes environments.
       </p>
       <p>
