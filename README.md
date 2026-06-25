@@ -109,7 +109,6 @@
         <img src="https://img.shields.io/badge/ChromaDB-E2A02B?style=flat-square" alt="ChromaDB" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-      <strong style="color: #1C2839;">Key Technical Accomplishments:</strong>
     </td>
   </tr>
 </table>
