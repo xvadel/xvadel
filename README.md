@@ -2,9 +2,12 @@
   <tr>
     <td width="62%" valign="middle">
       <h1 style="font-size: 3.2em; margin: 0 0 10px 0; color: #1C2839;">Adel Ibrahim</h1>
-      <h2 style="font-size: 1.6em; margin: 0 0 20px 0; color: #2D3D52;">AI Product Engineer • Full-Stack Developer</h2>
-      <p style="font-size: 1.1em; color: #415169; margin-bottom: 25px; line-height: 1.6;">
-        Building production-grade, cost-optimized AI systems, advanced RAG pipelines, and intelligent collaborative software. Focused on turning complex machine learning research into fast, self-hostable, and user-centric products.
+      <h2 style="font-size: 1.6em; margin: 0 0 20px 0; color: #2D3D52;">AI Science Student & Full-Stack Product Engineer</h2>
+      <p style="font-size: 1.05em; color: #415169; margin-bottom: 15px; line-height: 1.6;">
+        I am a final-year AI Science student at the Faculty of Computer Science and Engineering, New Mansoura University. Deeply passionate about the entire spectrum of AI, machine learning, and large language models, my technical interests focus on Generative & Agentic AI, Natural Language Processing (NLP), LLM Orchestration, and robust System Architecture.
+      </p>
+      <p style="font-size: 1.05em; color: #415169; margin-bottom: 25px; line-height: 1.6;">
+        I specialize in bridging the gap between theoretical AI research and practical product engineering—building cost-effective, production-grade, and self-hostable full-stack systems.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Open%20Source%20AI-2D3D52?style=for-the-badge&logo=github&logoColor=white" alt="Open Source AI" />
@@ -23,7 +26,7 @@
 <table>
   <tr>
     <td width="100%" valign="top" style="border-left: 4px solid #1C2839; padding-left: 15px;">
-      <h3 style="color: #1C2839; margin-top: 0;">🥇 First Place Winner — Computer Science & Engineering Projects Exhibition 2026</h3>
+      <h3 style="color: #1C2839; margin-top: 0;">First Place Winner — Computer Science & Engineering Projects Exhibition 2026</h3>
       <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
         Awarded by the <strong>College Administration of New Mansoura University</strong> for outstanding innovation, technical execution, and system architecture in building <strong>ERTH Matching</strong>. Developed as a high-performance, collaborative effort with my team.
       </p>
@@ -231,7 +234,7 @@ Here is a system blueprint representing the modular, cost-efficient architecture
       </p>
     </td>
     <td width="50%" valign="top">
-      <strong style="color: #1C2839;">👥 Team Leadership & Collaboration</strong>
+      <strong style="color: #1C2839;">Team Leadership & Collaboration</strong>
       <p style="color: #415169; margin-top: 5px; font-size: 0.95em; line-height: 1.5;">
         Proven ability to collaborate in high-achieving teams (1st place award), manage role delegation, design peer-review loops, and work closely on shared system integrations.
       </p>
