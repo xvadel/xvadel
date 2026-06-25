@@ -203,14 +203,6 @@
   </tr>
 </table>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xvadel&show_icons=true&theme=transparent&hide_border=true&title_color=1C2839&text_color=415169&icon_color=2D3D52&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=xvadel&theme=transparent&hide_border=true&ring=415169&fire=2D3D52&currStreakLabel=1C2839&sideLabels=415169&dates=5E6D88" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvadel&layout=compact&theme=transparent&hide_border=true&title_color=1C2839&text_color=415169" alt="Top Languages" />
-</p>
-
 ## Connect & Collaborate
 
 <table>
