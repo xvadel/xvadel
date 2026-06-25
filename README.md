@@ -4,10 +4,7 @@
       <h1 style="font-size: 3.2em; margin: 0 0 10px 0; color: #1C2839;">Adel Ibrahim</h1>
       <h2 style="font-size: 1.6em; margin: 0 0 20px 0; color: #2D3D52;">AI Science Student & Full-Stack Product Engineer</h2>
       <p style="font-size: 1.05em; color: #415169; margin-bottom: 15px; line-height: 1.6;">
-        Hello everyone, I am Adel, a final-year AI Science student at the Faculty of Computer Science and Engineering, New Mansoura University, Egypt. I am deeply passionate about the entire spectrum of AI, machine learning, and large language models, my technical interests focus on Generative & Agentic AI, Natural Language Processing (NLP), LLM Orchestration, and robust System Architecture.
-      </p>
-      <p style="font-size: 1.05em; color: #415169; margin-bottom: 25px; line-height: 1.6;">
-        I specialize in bridging the gap between theoretical AI research and practical product engineering—building cost-effective, production-grade, and smart full-stack systems.
+        Hello everyone, I am Adel, a final-year AI Science student at the Faculty of Computer Science and Engineering, New Mansoura University, Egypt. I am deeply passionate about the entire spectrum of AI, ML, and LLMs, my technical interests focus on learning Generative & Agentic AI, NLP, LLM Orchestration, and robust System Architecture.
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
@@ -26,8 +23,6 @@
         Awarded by the <strong>College Administration of New Mansoura University</strong> for outstanding innovation, technical execution, and system architecture in building <strong>ERTH Matching</strong>. Developed as a high-performance, collaborative effort with my team.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Award-First%20Place%20Winner-1C2839?style=for-the-badge" alt="First Place Award" />
-        <img src="https://img.shields.io/badge/Scope-Teamwork%20Product-415169?style=for-the-badge" alt="Teamwork Product" />
         <a href="./Assets/certificate1.pdf">
           <img src="https://img.shields.io/badge/View%20Certificate-PDF-2D3D52?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Certificate PDF" />
         </a>
@@ -129,39 +124,6 @@
     </td>
   </tr>
 </table>
-
-## Typical System Architecture (My RAG & AI Blueprint)
-
-Here is a system blueprint representing the modular, cost-efficient architecture pattern I design for AI-native applications (implemented in **Erudios** and **Corpus**):
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                             FRONTEND                             │
-│       Next.js 15 (App Router) / Svelte 5 / React 19 / Vite       │
-└────────────────────────────────┬─────────────────────────────────┘
-                                 │
-                                 │ JSON API Requests (CORS & CSRF Secured)
-                                 ▼
-┌──────────────────────────────────────────────────────────────────┐
-│                           BACKEND API                            │
-│                 FastAPI (Python 3.11) / PHP 8.2                  │
-└─────────┬──────────────────────┬──────────────────────┬──────────┘
-          │                      │                      │
-          │ Cache Lookup         │ Hybrid Vector Search │ LLM Inference
-          ▼                      ▼                      ▼
-┌──────────────────┐    ┌──────────────────┐    ┌──────────────────┐
-│     REDIS L1     │    │    VECTOR DB     │    │    LLM ROUTER    │
-│ Hot Cache / Rate │    │ ChromaDB/Qdrant  │    │ Gemini 2.0 Flash │
-│  Limit / Budget  │    │  (Bi-Encoder)    │    │ Llama 3.3 (Groq) │
-└─────────┬────────┘    └────────┬─────────┘    └────────┬─────────┘
-          │                      │                       │
-          │ L2 DB Fallback       │ Precision Rerank      │
-          ▼                      ▼                       │
-┌──────────────────┐    ┌──────────────────┐             │
-│ RELATIONAL STORE │    │  CROSS-ENCODER   │◄────────────┘
-│ Postgres/SQLite  │    │  bge-reranker    │
-└──────────────────┘    └──────────────────┘
-```
 
 ## Skills & Expertise
 
