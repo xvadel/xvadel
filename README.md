@@ -38,20 +38,22 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%" style="border: 1px solid #E2E8F0; border-radius: 12px; border-collapse: separate; background-color: #F8FAFC; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
   <tr>
-    <td width="100%" valign="top" style="padding: 15px;">
-      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 15px 0; padding: 0;">
-        <tr style="border: none;">
-          <td align="left" valign="middle" style="border: none; padding: 0;">
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em;">
-              <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="55" style="vertical-align: middle; margin-right: 15px;" />
-              <span style="vertical-align: middle; font-weight: bold;">ERTH Matching</span>
+    <td width="100%" valign="top" style="padding: 24px; border: none;">
+      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
+        <tr style="border: none; background: transparent;">
+          <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.8em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px;">
+              <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="55" style="vertical-align: middle; margin-right: 15px; border-radius: 10px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
+              <span style="vertical-align: middle;">ERTH Matching</span>
             </h3>
           </td>
-          <td align="right" valign="middle" style="border: none; padding: 0;">
-            <img src="Assets/status-completed.svg" alt="Status: Completed" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
-            <span style="font-size: 0.75em; color: #15803D; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #E8F5E9; padding: 4px 10px; border-radius: 12px; border: 1px solid #C8E6C9;">Completed</span>
+          <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
+            <div style="display: inline-block; vertical-align: middle; padding: 6px 14px; border-radius: 9999px; background-color: #E8F5E9; border: 1px solid #C8E6C9; color: #1B5E20; font-family: -apple-system, sans-serif; font-weight: 700; font-size: 0.72em; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+              <img src="Assets/status-completed.svg" alt="Completed" width="16" height="16" style="vertical-align: middle; margin-right: 6px; margin-top: -2px;" />
+              <span style="vertical-align: middle;">Completed</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -83,20 +85,22 @@
   </tr>
 </table>
 
-<table>
+<table width="100%" style="border: 1px solid #E2E8F0; border-radius: 12px; border-collapse: separate; background-color: #F8FAFC; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
   <tr>
-    <td width="100%" valign="top" style="padding: 15px;">
-      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 15px 0; padding: 0;">
-        <tr style="border: none;">
-          <td align="left" valign="middle" style="border: none; padding: 0;">
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.6em;">
-              <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
-              <span style="vertical-align: middle; font-weight: bold;">Erudios</span>
+    <td width="100%" valign="top" style="padding: 24px; border: none;">
+      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
+        <tr style="border: none; background: transparent;">
+          <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px;">
+              <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 10px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
+              <span style="vertical-align: middle;">Erudios</span>
             </h3>
           </td>
-          <td align="right" valign="middle" style="border: none; padding: 0;">
-            <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
-            <span style="font-size: 0.78em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
+          <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
+            <div style="display: inline-block; vertical-align: middle; padding: 6px 14px; border-radius: 9999px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; font-family: -apple-system, sans-serif; font-weight: 700; font-size: 0.72em; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+              <img src="Assets/status-in-progress.svg" alt="In Progress" width="16" height="16" style="vertical-align: middle; margin-right: 6px; margin-top: -2px;" />
+              <span style="vertical-align: middle;">In Progress</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -128,20 +132,22 @@
   </tr>
 </table>
 
-<table>
+<table width="100%" style="border: 1px solid #E2E8F0; border-radius: 12px; border-collapse: separate; background-color: #F8FAFC; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
   <tr>
-    <td width="100%" valign="top" style="padding: 15px;">
-      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 15px 0; padding: 0;">
-        <tr style="border: none;">
-          <td align="left" valign="middle" style="border: none; padding: 0;">
-            <h3 style="color: #1C2839; margin: 0; font-size: 1.6em;">
-              <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
-              <span style="vertical-align: middle; font-weight: bold;">Corpus</span>
+    <td width="100%" valign="top" style="padding: 24px; border: none;">
+      <table width="100%" style="border: none; border-collapse: collapse; margin: 0 0 20px 0; padding: 0; background: transparent;">
+        <tr style="border: none; background: transparent;">
+          <td align="left" valign="middle" style="border: none; padding: 0; background: transparent;">
+            <h3 style="color: #1C2839; margin: 0; font-size: 1.7em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; letter-spacing: -0.5px;">
+              <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 10px; border: 1px solid #E2E8F0; background-color: #FFFFFF; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);" />
+              <span style="vertical-align: middle;">Corpus</span>
             </h3>
           </td>
-          <td align="right" valign="middle" style="border: none; padding: 0;">
-            <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
-            <span style="font-size: 0.78em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
+          <td align="right" valign="middle" style="border: none; padding: 0; background: transparent;">
+            <div style="display: inline-block; vertical-align: middle; padding: 6px 14px; border-radius: 9999px; background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C; font-family: -apple-system, sans-serif; font-weight: 700; font-size: 0.72em; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.02);">
+              <img src="Assets/status-in-progress.svg" alt="In Progress" width="16" height="16" style="vertical-align: middle; margin-right: 6px; margin-top: -2px;" />
+              <span style="vertical-align: middle;">In Progress</span>
+            </div>
           </td>
         </tr>
       </table>
