@@ -56,11 +56,6 @@
         <li><strong>API Verification & Testing:</strong> Extensively checked and verified all 70+ REST API endpoints using Postman, writing automated assertions to ensure correct CSRF token exchanges and secure headers.</li>
         <li><strong>Product Development Ideation:</strong> Shared key ideas to design the product, driving the development of the daily schedule matrix, workspace workflows, and peer-review systems.</li>
       </ul>
-      <strong style="color: #1C2839;">Platform Features (Team Collaboration):</strong>
-      <ul style="color: #415169; line-height: 1.5; margin-top: 5px;">
-        <li><strong>OTP Authentication & Security:</strong> Throttles access and secures registrations using domain-restricted email OTP verification (<code>@nmu.edu.eg</code>), CSRF token guards, and rate limiters.</li>
-        <li><strong>Real-Time Workspaces:</strong> Features interactive Kanban task boards with custom sequence sorting, team group chats, and peer evaluation workflows.</li>
-      </ul>
     </td>
   </tr>
 </table>
