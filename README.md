@@ -115,12 +115,6 @@
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
       <strong style="color: #1C2839;">Key Technical Accomplishments:</strong>
-      <ul style="color: #415169; line-height: 1.5; margin-top: 5px;">
-        <li><strong>Two-Stage RAG Pipeline:</strong> Built a hybrid retrieval pipeline combining Bi-Encoder candidate recall (<code>BAAI/bge-small-en-v1.5</code> in ChromaDB) and Cross-Encoder precision reranking (<code>BAAI/bge-reranker-base</code>), achieving a **+13.3% Recall@1** and **+15.0% Recall@3** increase over vector-only baselines.</li>
-        <li><strong>Exponential Moving Average (EMA) Mastery:</strong> Programmed a SQLite-backed user skill tracker that calculates concept mastery dynamically based on real-time feedback loops.</li>
-        <li><strong>GapAnalyzer Curriculum Engine:</strong> Implemented topological sorting over a 108-concept AI ontology to generate customized learning paths targeting verified vocabulary gaps.</li>
-        <li><strong>Interactive AI Coaches:</strong> Designed roleplay simulators mimicking high-stakes scenarios, featuring startup VC pitches (Alex Mercer), principal systems designs (Sarah Connor), and AI architecture reviews (Dr. Evelyn Vance).</li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -134,8 +128,6 @@
     <td width="50%" valign="top">
       <strong style="color: #1C2839;">AI, ML & Retrieval (RAG)</strong>
       <p style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq" />
         <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
         <img src="https://img.shields.io/badge/Qdrant-FF007A?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
         <img src="https://img.shields.io/badge/ChromaDB-E2A02B?style=flat-square" alt="ChromaDB" />
@@ -189,29 +181,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong style="color: #1C2839;">Product & Startup Mindset</strong>
+      <strong style="color: #1C2839;">Curiosity & Continuous Learning</strong>
       <p style="color: #415169; margin-top: 5px; font-size: 0.95em; line-height: 1.5;">
-        Building AI features designed around cost efficiency, operating entirely within free API tiers through smart routing, and prioritizing user-centric value over raw complexity.
+       I genuinely enjoy learning new technologies and exploring different fields. I’m always looking for opportunities to expand my knowledge and improve my skills.
       </p>
     </td>
     <td width="50%" valign="top">
-      <strong style="color: #1C2839;">Team Leadership & Collaboration</strong>
+      <strong style="color: #1C2839;">Adaptability</strong>
       <p style="color: #415169; margin-top: 5px; font-size: 0.95em; line-height: 1.5;">
-        Proven ability to collaborate in high-achieving teams (1st place award), manage role delegation, design peer-review loops, and work closely on shared system integrations.
+        I can quickly adjust to new technologies, tools, and environments. I enjoy stepping outside my comfort zone and learning what is needed to succeed.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong style="color: #1C2839;">Curriculum & Domain Modeling</strong>
+      <strong style="color: #1C2839;">Teamwork & Collaboration</strong>
       <p style="color: #415169; margin-top: 5px; font-size: 0.95em; line-height: 1.5;">
-        Expertise in mapping complex technical taxonomies (50+ AI/ML topics, 108-concept professional ontologies) to create automated, structured learning graphs.
+        I enjoy working with others, sharing ideas, and contributing to team goals. I value communication and cooperation when building projects
       </p>
     </td>
     <td width="50%" valign="top">
-      <strong style="color: #1C2839;">Agile Project Management</strong>
+      <strong style="color: #1C2839;">Goal-Oriented Mindset</strong>
       <p style="color: #415169; margin-top: 5px; font-size: 0.95em; line-height: 1.5;">
-        Skilled in organizing work through Kanban workflows, writing clean technical documentation, and maintaining rapid self-directed execution on individual codebases.
+        I enjoy setting clear objectives and working consistently toward them, whether in academics, technical projects, career development, or personal growth.
       </p>
     </td>
   </tr>
