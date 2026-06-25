@@ -40,12 +40,14 @@
 
 <table>
   <tr>
-    <td width="80%" valign="top">
-      <h3 style="color: #1C2839; margin-top: 0;">
-        <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" width="36" style="vertical-align: middle; margin-right: 10px;" />
-        <span style="vertical-align: middle;">ERTH Matching</span>
+    <td width="100%" valign="top" style="padding: 15px;">
+      <h3 style="color: #1C2839; margin-top: 0; font-size: 1.7em; line-height: 1.4;">
+        <img src="Assets/matching-logo.png" alt="ERTH Matching Logo" height="55" style="vertical-align: middle; margin-right: 15px;" />
+        <span style="vertical-align: middle; font-weight: bold; margin-right: 15px;">ERTH Matching</span>
+        <img src="Assets/status-completed.svg" alt="Status: Completed" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
+        <span style="font-size: 0.45em; color: #15803D; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #E8F5E9; padding: 4px 10px; border-radius: 12px; border: 1px solid #C8E6C9;">Completed</span>
       </h3>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 15px;">
         A smart, skill-based collaboration and teammate matching engine for student projects, research papers, and academic work at New Mansoura University.
       </p>
       <p>
@@ -70,21 +72,19 @@
         <li><strong>Real-Time Workspaces:</strong> Features interactive Kanban task boards with custom sequence sorting, team group chats, and peer evaluation workflows.</li>
       </ul>
     </td>
-    <td width="20%" align="center" valign="middle" style="border-left: 1px solid #415169; padding: 15px;">
-      <img src="Assets/status-completed.svg" alt="Status: Completed" width="38" height="38" />
-      <div style="font-size: 0.75em; color: #15803D; font-weight: bold; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Completed</div>
-    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="80%" valign="top">
-      <h3 style="color: #1C2839; margin-top: 0;">
-        <img src="Assets/erudios-logo.png" alt="Erudios Logo" width="36" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" />
-        <span style="vertical-align: middle;">Erudios</span>
+    <td width="100%" valign="top" style="padding: 15px;">
+      <h3 style="color: #1C2839; margin-top: 0; font-size: 1.6em; line-height: 1.4;">
+        <img src="Assets/erudios-logo.png" alt="Erudios Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
+        <span style="vertical-align: middle; font-weight: bold; margin-right: 15px;">Erudios</span>
+        <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
+        <span style="font-size: 0.48em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
       </h3>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 15px;">
         An open-source, personalized learning platform that maps complex AI/ML taxonomies, builds prerequisite-aware dependency paths, and answers "what to learn next."
       </p>
       <p>
@@ -109,21 +109,19 @@
         <li><strong>Resource Discovery:</strong> Built a trust-scoring research engine that queries DuckDuckGo and OpenAlex to fetch and rank academic papers and articles.</li>
       </ul>
     </td>
-    <td width="20%" align="center" valign="middle" style="border-left: 1px solid #415169; padding: 15px;">
-      <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="38" height="38" />
-      <div style="font-size: 0.75em; color: #EA580C; font-weight: bold; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">In Progress</div>
-    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="80%" valign="top">
-      <h3 style="color: #1C2839; margin-top: 0;">
-        <img src="Assets/Corpus-logo.png" alt="Corpus Logo" width="36" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" />
-        <span style="vertical-align: middle;">Corpus</span>
+    <td width="100%" valign="top" style="padding: 15px;">
+      <h3 style="color: #1C2839; margin-top: 0; font-size: 1.6em; line-height: 1.4;">
+        <img src="Assets/Corpus-logo.png" alt="Corpus Logo" height="48" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;" />
+        <span style="vertical-align: middle; font-weight: bold; margin-right: 15px;">Corpus</span>
+        <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="28" height="28" style="vertical-align: middle; margin-right: 6px;" />
+        <span style="font-size: 0.48em; color: #EA580C; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle; background-color: #FFF7ED; padding: 4px 10px; border-radius: 12px; border: 1px solid #FFEDD5;">In Progress</span>
       </h3>
-      <p style="color: #415169; font-size: 1.05em; line-height: 1.5;">
+      <p style="color: #415169; font-size: 1.05em; line-height: 1.5; margin-top: 15px;">
         A self-hostable domain-specific language learning platform that bridges the gap between technical mastery and professional communication in high-stakes environments.
       </p>
       <p>
@@ -143,10 +141,6 @@
         <li><strong>GapAnalyzer Curriculum Engine:</strong> Implemented topological sorting over a 108-concept AI ontology to generate customized learning paths targeting verified vocabulary gaps.</li>
         <li><strong>Interactive AI Coaches:</strong> Designed roleplay simulators mimicking high-stakes scenarios, featuring startup VC pitches (Alex Mercer), principal systems designs (Sarah Connor), and AI architecture reviews (Dr. Evelyn Vance).</li>
       </ul>
-    </td>
-    <td width="20%" align="center" valign="middle" style="border-left: 1px solid #415169; padding: 15px;">
-      <img src="Assets/status-in-progress.svg" alt="Status: In Progress" width="38" height="38" />
-      <div style="font-size: 0.75em; color: #EA580C; font-weight: bold; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px;">In Progress</div>
     </td>
   </tr>
 </table>
