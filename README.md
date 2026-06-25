@@ -63,7 +63,6 @@
       </ul>
       <strong style="color: #1C2839;">Platform Features (Team Collaboration):</strong>
       <ul style="color: #415169; line-height: 1.5; margin-top: 5px;">
-        <li><strong>Weighted Compatibility Engine:</strong> Programmatically matches students using 5 weighted criteria: Skill Match (45%), Complementarity (25%), Experience (10%), Schedule (10%), Academic Proximity (5%), and Bayesian-scaled Peer Reputation (5%).</li>
         <li><strong>OTP Authentication & Security:</strong> Throttles access and secures registrations using domain-restricted email OTP verification (<code>@nmu.edu.eg</code>), CSRF token guards, and rate limiters.</li>
         <li><strong>Real-Time Workspaces:</strong> Features interactive Kanban task boards with custom sequence sorting, team group chats, and peer evaluation workflows.</li>
       </ul>
