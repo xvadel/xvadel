@@ -4,15 +4,10 @@
       <h1 style="font-size: 3.2em; margin: 0 0 10px 0; color: #1C2839;">Adel Ibrahim</h1>
       <h2 style="font-size: 1.6em; margin: 0 0 20px 0; color: #2D3D52;">AI Science Student & Full-Stack Product Engineer</h2>
       <p style="font-size: 1.05em; color: #415169; margin-bottom: 15px; line-height: 1.6;">
-        I am a final-year AI Science student at the Faculty of Computer Science and Engineering, New Mansoura University. Deeply passionate about the entire spectrum of AI, machine learning, and large language models, my technical interests focus on Generative & Agentic AI, Natural Language Processing (NLP), LLM Orchestration, and robust System Architecture.
+        Hello everyone, I am Adel, a final-year AI Science student at the Faculty of Computer Science and Engineering, New Mansoura University, Egypt. I am deeply passionate about the entire spectrum of AI, machine learning, and large language models, my technical interests focus on Generative & Agentic AI, Natural Language Processing (NLP), LLM Orchestration, and robust System Architecture.
       </p>
       <p style="font-size: 1.05em; color: #415169; margin-bottom: 25px; line-height: 1.6;">
-        I specialize in bridging the gap between theoretical AI research and practical product engineering—building cost-effective, production-grade, and self-hostable full-stack systems.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Open%20Source%20AI-2D3D52?style=for-the-badge&logo=github&logoColor=white" alt="Open Source AI" />
-        <img src="https://img.shields.io/badge/Product%20Engineering-415169?style=for-the-badge&logoColor=white" alt="Product Engineering" />
-        <img src="https://img.shields.io/badge/System%20Architecture-5E6D88?style=for-the-badge&logoColor=white" alt="System Architecture" />
+        I specialize in bridging the gap between theoretical AI research and practical product engineering—building cost-effective, production-grade, and smart full-stack systems.
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
