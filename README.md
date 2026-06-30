@@ -2,7 +2,7 @@
   <tr>
     <td width="62%" valign="middle">
       <h1 style="font-size: 3.2em; margin: 0 0 10px 0; color: #1C2839;">Adel Ibrahim</h1>
-      <h2 style="font-size: 1.6em; margin: 0 0 20px 0; color: #2D3D52;">AI Science Student & Full-Stack Product Engineer</h2>
+      <h2 style="font-size: 1.6em; margin: 0 0 20px 0; color: #2D3D52;">AI Science Student & LLM enthusiast</h2>
       <p style="font-size: 1.05em; color: #415169; margin-bottom: 15px; line-height: 1.6;">
         Hello everyone, I am Adel, a final-year AI Science student at the Faculty of Computer Science and Engineering, New Mansoura University, Egypt. I am deeply passionate about the entire spectrum of AI, ML, and LLMs, my technical interests focus on learning Generative & Agentic AI, NLP, LLM Orchestration, and robust System Architecture.
       </p>
